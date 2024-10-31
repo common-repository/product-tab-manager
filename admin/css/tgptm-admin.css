@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .tgqb-d {
+    margin-bottom: 10px;
+ }
+
+.tgqb-d-flex {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  flex-direction: row;
+}
+
+.tgqb-d-flex-justify-center {
+  justify-content:center; 
+}   
+
+.tgqb-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color:  #fff;
+  color: #000;
+  padding: 0 15px 15px;
+  flex-grow: 1;
+}
+
+.tgqb-card-fixed-width {
+  width: 100%;
+  max-width: 300px;
+}
+
+.tgqb-card-inner {
+  padding-bottom: 20px;
+}
+
+.categorydiv div.tabs-panel {
+  max-height: 100%;
+  padding: 0.5em 0.9em;
+}
+
+.categorydiv div.form-field, div.form-field {
+  margin-top: 10px;
+}
+
+.text-center {
+  text-align: center;
+  align-items: center;
+}
+
+.wrap>h2:first-child {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+.tg-footer {
+  margin-top: 50px;;
+}
